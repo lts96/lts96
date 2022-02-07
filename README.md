@@ -22,5 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lts96&theme=radical" alt="lts96" /></p>
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxotjs)](https://solved.ac/dlxotjs)
 
