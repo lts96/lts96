@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lts96&show_icons=true&locale=en" alt="lts96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lts96&" alt="lts96" /></p>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=">
