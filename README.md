@@ -61,7 +61,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lts96&show_icons=true&theme=radical)
+![lts96's GitHub stats](https://github-readme-stats.vercel.app/api?username=lts96&show_icons=true&theme=radical)
 
 
 
