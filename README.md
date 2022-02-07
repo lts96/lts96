@@ -60,15 +60,7 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 
 
-<br/> 
-<p>
-
-<a align= "center" href="https://github.com/lts96">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-</p>
-<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lts96&show_icons=true&theme=radical)
 
 
 
