@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <img align="left" height="270px" alt="hello_world" src="pic.png" />
 
-<h3> :men: &nbsp;About Me </h3>
+<h3>  &nbsp;About Me </h3>
 
 - 😄 Pronouns: He
 - 🔭 I’m currently working on: NULL
