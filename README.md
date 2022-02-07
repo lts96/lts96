@@ -21,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lts96&show_icons=true&theme=radical" alt="lts96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lts96&theme=radical" alt="lts96" /></p>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxotjs)](https://solved.ac/dlxotjs)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxotjs)](https://solved.ac/dlxotjs)
 
 
