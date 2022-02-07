@@ -1,22 +1,10 @@
-### Hi there 👋
+<h3> About Me </h3>
 
-<!--
-**lts96/lts96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![Welcome Banner](banner.gif)
-
-
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
-
-<h3>  &nbsp;About Me </h3>
-
-- 😄 Pronouns: He
+- 😄 Pronouns: He 
 - 🔭 I’m currently working on: NULL
 - :heart: My favorite language: C++
-- 🌱 I’m currently learning: Algorithm problem soving and Spring framework
-- 💜 Interests: Movie, Plant, Bike, Cooking
+- 🌱 I’m currently learning: Algorithm and Spring, django
+- 💜 Interests: movie, plant, bike, cooking, etc...
 
 <br/>
 
@@ -82,3 +70,10 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 </p>
 <br/>
+
+<p>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+</p>
+
+
+
