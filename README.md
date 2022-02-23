@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://lts96.tistory.com/](https://lts96.tistory.com/)
 
-- 💬 Ask me about **Spring, MySQL**
+- 💬 Ask me about **Algorithm, Spring, MySQL**
 
 - 📫 How to reach me **dlxotjs0627@naver.com**
 
